@@ -51,7 +51,7 @@ public class ejercicio27 {
             if (!aux.substring(i, i + 1).equals(aux.substring(n - i - 1, n - i))) {
 
                 /*IFNOT que verifica que la palabra sea igual desde el inio a la mitad y la compara desde la mitad hasta
-                el final */
+                el final 0*/
                 return false;
             }
         }

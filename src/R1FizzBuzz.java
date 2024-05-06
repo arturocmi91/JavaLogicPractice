@@ -10,7 +10,7 @@ public class R1FizzBuzz {
             }else if (mult5==0){
                 System.out.println("Buzz "+i);
             }else {
-                System.out.println("none"+ i);
+                System.out.println("none: "+ i);
             }
         }
     }
